@@ -6,7 +6,7 @@ This is a real-time video call application built using **HTML**, **CSS**, **Java
 
 
 ## Demo Video
-[![Tic Tac Toe Demo](./public/gif/preview.gif)](https://ninadbaruah.me/videos/video-chat-project.mp4)
+[![Video call demo](./public/gif/preview.gif)](https://ninadbaruah.me/videos/video-chat-project.mp4)
 
 Click the image above to watch the video demo.
 
